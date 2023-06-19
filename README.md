@@ -1,1 +1,1 @@
-# AlignNet
+# DualAttNet
